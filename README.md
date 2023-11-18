@@ -10,6 +10,10 @@
 5. Deep learning model LSTM is used to predict stock prices. LSTM can save cell state in long-term dependencies. It can predict stock prices in effective way as previous day stock prices can be saved. Input gate, Forget gate and Output gate are used in LSTM for verifying previous states.
 6. To further optimize the model another deep learning technique is used i.e. GRU. GRU is an efficient variant of recurrent neural networks (RNNs) widely used for sequential data tasks due to its effective information management with fewer parameters compared to alternatives like LSTM. Experimental analysis have proved that GRU is better than LSTM.
 7. For further optimization an  Autoregressive model is used i.e. ARIMA, which stands for Autoregressive Integrated Moving Average. It is a widely used time series forecasting method which combines autoregressive (AR) and moving average (MA) components with differencing to model and predict time-dependent data. ARIMA is a versatile and powerful tool for analyzing and forecasting various time series, making it valuable in fields such as finance, economics, and epidemiology.
+   
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/2229eec8-fd0b-4044-aec0-952ff52942b7)
+
+
                   
 
 
