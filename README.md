@@ -13,6 +13,22 @@
    
 ![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/2229eec8-fd0b-4044-aec0-952ff52942b7)
 
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/1b026a8f-8c6f-4139-8bcf-85b148535109)
+
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/4c8583e7-716d-487a-b69d-8c1b33430bf1)
+
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/990a90de-1187-4c66-9f1b-27dc8351f753)
+
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/c2344d18-d557-4a4c-91d8-988a031d388a)
+
+![image](https://github.com/gautam899/Stock-Market-Prediction/assets/124019261/0e5a8162-6468-44e6-8554-eeb2133480eb)
+
+
+
+
+
+
+
 
                   
 
